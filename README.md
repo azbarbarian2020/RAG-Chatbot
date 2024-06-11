@@ -3,6 +3,7 @@ Requirements:
 
 Workspace with Unity Catalog, Model Serving and Vector Index
 
+Interactive cluster running 14.3 ML or higher (Gradio piece won't work with Serverless Notebook Cluster).  Suggest LTS.
 
 Code to create your own RAG Chatbot in Databricks
 
